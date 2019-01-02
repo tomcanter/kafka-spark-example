@@ -1,6 +1,12 @@
-# Kafka PySpark Demo
+# Twitter Kafka PySpark Demo
 
-Demo of Python Spark Streaming and Kafka
+Demo of Python Spark Streaming and Kafka to ingest tweets from a twitter topic
+
+## Architecture
+
+Listen to a twitter stream and print some statistics about the group of tweets as an enrichment to the message
+
+![alt text](Architecture.png "Title")
 
 ## Usage
 
