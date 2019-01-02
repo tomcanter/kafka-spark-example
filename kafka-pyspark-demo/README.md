@@ -6,7 +6,7 @@ Demo of Python Spark Streaming and Kafka to ingest tweets from a twitter topic
 
 Listen to a twitter stream and print some statistics about the group of tweets as an enrichment to the message
 
-![alt text](Architecture.png "Title")
+![alt text](architecture.png "Title")
 
 ## Usage
 
